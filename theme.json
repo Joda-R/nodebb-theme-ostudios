@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-oxide",
-    "name": "Oxide",
-    "description": "Oxide Theme",
-    "url": "https://github.com/youhosi/nodebb-theme-oxide",
+    "id": "nodebb-theme-ostudios",
+    "name": "Occult",
+    "description": "Reworked Oxide Theme",
+    "url": "https://github.com/Joda-R/nodebb-theme-ostudios",
     "screenshot": "screenshot.png"
 }
