@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-theme-oxide",
+	"id": "nodebb-theme-ostudios",
 	"library": "library.js",
 	"hooks": [
 		{ "hook": "filter:teasers.get", "method": "getTeasers" },
