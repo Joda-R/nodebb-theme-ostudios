@@ -1,30 +1,31 @@
 {
   "contributors": [
     {
-      "name": "Sebastian Sycz",
-      "email": "youhosi99@gmail.com",
-      "url": "https://github.com/youhosi"
+      "name": "Joda",
+      "email": "",
+      "url": "https://github.com/Joda-R"
     }
   ],
-  "description": "Oxide theme",
-  "homepage": "https://github.com/youhosi/nodebb-theme-oxide#readme",
+  "description": "Oxide Rework",
+  "homepage": "https://github.com/Joda-R/nodebb-theme-ostudios#readme",
   "keywords": [
     "nodebb",
     "theme",
     "forum",
     "bootstrap",
     "responsive",
-    "oxide"
+    "oxide",
+    "ostudios"
   ],
   "license": "MIT",
   "main": "theme.less",
-  "name": "nodebb-theme-oxide",
+  "name": "nodebb-theme-ostudios",
   "nbbpm": {
     "compatibility": "^1.10.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/youhosi/nodebb-theme-oxide.git"
+    "url": "git+https://github.com/Joda-R/nodebb-theme-ostudios.git"
   },
   "version": "1.0.1"
 }
